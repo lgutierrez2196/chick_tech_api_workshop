@@ -1,20 +1,22 @@
 body {
-  background-color: lavender;
+  background-color: #ada397;
+  text-align: center;
 }
 
 h1 {
-  color: darkslateblue;
+  color: #eca1a6;
+  text-shadow: 2px 1px white;
 }
 
 #call-api {
-  background-color: yellow;
+  background-color: #bdcebe;
   border-radius: 5px;
   border: 2px solid gray;
   height: 30px;
 }
 
 #call-api:active {
-  background-color: green;
+  background-color: #d6cbd3;
 }
 
 /* change the styles in this file to whatever you want */
